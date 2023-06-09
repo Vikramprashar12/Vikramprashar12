@@ -1,6 +1,4 @@
 <p style={center}>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramprashar12&layout=compact)</p>
-<p style={center}>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
