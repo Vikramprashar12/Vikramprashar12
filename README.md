@@ -75,16 +75,6 @@ Designed database schemas and ETL pipelines in Python and MySQL, and shipped 30+
 | **[React-Website-](https://github.com/Vikramprashar12/React-Website-)** | Personal portfolio site built in React | `React` |
 | **[LeetCoding-Questions](https://github.com/Vikramprashar12/LeetCoding-Questions)** | Ongoing collection of solved LeetCode problems | `Java` |
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikramprashar12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramprashar12&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
