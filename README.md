@@ -69,7 +69,6 @@ Designed database schemas and ETL pipelines in Python and MySQL, and shipped 30+
 
 | Project | Description | Stack |
 |---|---|---|
-
 | **[Portfolio Website](https://github.com/Vikramprashar12/Website-Portfolio)** | Personal portfolio site built | `Bootstrap` `HTML` `CSS` |
 | **[Data-Scientist-Bootcamp](https://github.com/Vikramprashar12/Data-Scientist-Bootcamp)** | Coursework, projects, and case studies from a Data Scientist Bootcamp covering ML, Power BI, and data analysis | `Python` |
 | **[License Plate Data Interpolator](https://github.com/Vikramprashar12/License-Plate-Data-Interpolator)** | Team project interpolating license plate data with ~98% accuracy using linear interpolation for bounding box continuity in time-series data | `Python` `NumPy` `Pandas` |
