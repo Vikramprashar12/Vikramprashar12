@@ -73,7 +73,7 @@ Designed database schemas and ETL pipelines in Python and MySQL, and shipped 30+
 | **[License Plate Data Interpolator](https://github.com/Vikramprashar12/License-Plate-Data-Interpolator)** | Team project interpolating license plate data with ~98% accuracy using linear interpolation for bounding box continuity in time-series data | `Python` `NumPy` `Pandas` |
 | **Project Management ETL Pipeline** | Automated ETL pipeline for project lifecycle data — intake through close-out — improving data accuracy by 30% | `ClickUp` `VBA` `Alteryx` `MySQL` |
 | **[BookStore-Application](https://github.com/Vikramprashar12/BookStore-Application)** | Java application project | `Java` |
-| **[Portfolio Website]([https://github.com/Vikramprashar12/React-Website-](https://github.com/Vikramprashar12/Website-Portfolio))** | Personal portfolio site built in React | `Bootstrap` `HTML` `CSS` |
+| **[Portfolio Website](https://github.com/Vikramprashar12/Website-Portfolio)** | Personal portfolio site built in React | `Bootstrap` `HTML` `CSS` |
 | **[LeetCoding-Questions](https://github.com/Vikramprashar12/LeetCoding-Questions)** | Ongoing collection of solved LeetCode problems | `Java` |
 
 
