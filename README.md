@@ -81,6 +81,6 @@ Designed database schemas and ETL pipelines in Python and MySQL, and shipped 30+
 
 <div align="center">
 
-*Currently exploring: Power BI DAX modeling, static site development, and getting a Rocket League montage out the door.*
+*Currently exploring: Power BI DAX modeling, front-end and back-end development, and getting a Rocket League montage out the door.*
 
 </div>
