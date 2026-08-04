@@ -57,10 +57,10 @@ I'm a Computer Engineering grad (Toronto Metropolitan University) currently buil
 
 ### 💼 What I've Been Building
 
-**Solutions Engineer, HR Reporting & Analytics** — *Hydro One* (2025–present)
+**Data Engineer, HR Reporting & Analytics** — *Hydro One* (2025–present)
 Building analytics solutions using spec-driven development in Python and SQL, and iterating on the internal Recruitment Dashboard to simplify the user experience.
 
-**Data Science Student, Streetlighting Operations** — *Toronto Hydro* (2023–2024)
+**Software Engineer, Streetlighting Operations** — *Toronto Hydro* (2023–2024)
 Designed database schemas and ETL pipelines in Python and MySQL, and shipped 30+ new reporting metrics and visualizations for the department.
 
 ---
