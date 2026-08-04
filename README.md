@@ -2,7 +2,7 @@
 
 # Hi, I'm Vikram Prashar 👋
 
-**Solutions Engineer (HR Reporting & Analytics) @ Hydro One**
+**Data Engineer (HR Reporting & Analytics) @ Hydro One**
 Computer Engineer · Data Scientist · Builder of things that turn messy data into decisions
 
 
