@@ -5,6 +5,8 @@
 **Solutions Engineer (HR Reporting & Analytics) @ Hydro One**
 Computer Engineer · Data Scientist · Builder of things that turn messy data into decisions
 
+
+[![Vikram GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/vikramprashar12/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vprashar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramprashar3@gmail.com)
 
